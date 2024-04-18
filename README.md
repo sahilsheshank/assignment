@@ -3,7 +3,7 @@
 
 >This Todo App is a simple web application built with React and Redux. It allows users to add, remove, and mark tasks as completed.
 
-#### To install this repository:
+## To install this repository:
 
 1. Clone the repository to a dedicated folder using command `git clone https://github.com/sahilsheshank/todo-app.git`
 2. Navigate terminal that you use to a created folder above, and run `npm install` or `npm i`
